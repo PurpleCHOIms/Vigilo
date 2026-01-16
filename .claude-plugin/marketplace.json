@@ -5,6 +5,9 @@
     "email": "catower917@gmail.com"
   },
   "description": "Web3 smart contract audit & security analysis plugin for Claude",
+  "metadata": {
+    "description": "A marketplace providing the Vigilo smart contract security audit plugin for Web3 developers."
+  },
   "plugins": [
     {
       "name": "vigilo",
@@ -14,7 +17,10 @@
       },
       "description": "Smart contract audit, vulnerability scanning, and security analysis plugin",
       "version": "1.0.0",
-      "author": "PurpleCHOIms"
+      "author": {
+        "name": "PurpleCHOIms",
+        "email": "catower917@gmail.com"
+      }
     }
   ]
 }
