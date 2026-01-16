@@ -1,0 +1,27 @@
+{
+  "name": "vigilo",
+  "version": "0.1.0",
+  "description": "AI-powered smart contract security reconnaissance and audit assistance for Solidity, Rust, Cairo, and Move.",
+  "author": {
+    "name": "PurpleCHOIms",
+    "email": "catower@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PurpleCHOIms/Vigilo.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "audit",
+    "smart-contract",
+    "solidity",
+    "web3",
+    "blockchain",
+    "defi",
+    "security-tool",
+    "claude-plugin"
+  ],
+  "commands": "./commands/",
+  "skills": "./skills/"
+}

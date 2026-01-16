@@ -1,0 +1,22 @@
+{
+  "name": "vigilo",
+  "owner": {
+    "name": "PurpleCHOIms",
+    "email": "catower917@gmail.com"
+  },
+  "description": "Web3 smart contract audit & security analysis plugin for Claude",
+  "metadata": {
+    "description": "Vigilo is a Web3 smart contract security analysis plugin providing automated reconnaissance, vulnerability discovery, and audit assistance for Solidity, Rust, Move, and Cairo smart contracts."
+  },
+  "plugins": [
+    {
+      "name": "vigilo",
+      "source": "./",
+      "description": "Smart contract audit, vulnerability scanning, and security analysis plugin",
+      "version": "1.0.0",
+      "author": {
+        "name": "PurpleCHOIms"
+      }
+    }
+  ]
+}

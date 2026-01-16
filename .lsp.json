@@ -1,0 +1,16 @@
+{
+  "solidity": {
+    "command": "cmd.exe",
+    "args": ["/c", "nomicfoundation-solidity-language-server", "--stdio"],
+    "extensionToLanguage": {
+      ".sol": "solidity"
+    }
+  },
+  "rust": {
+    "command": "cmd.exe",
+    "args": ["/c", "rustup", "run", "stable", "rust-analyzer"],
+    "extensionToLanguage": {
+      ".rs": "rust"
+    }
+  }
+}
